@@ -1,0 +1,1 @@
+tetgen -Y donut_model.ply
